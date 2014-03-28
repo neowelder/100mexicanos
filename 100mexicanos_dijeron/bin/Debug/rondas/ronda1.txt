@@ -1,0 +1,6 @@
+Cientifico famoso ?
+Albert Einstein,50
+Tomas alba edison,20
+Niels Bohr,15
+Alfred Nobel,9
+Isaac Newton,6

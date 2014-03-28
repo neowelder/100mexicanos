@@ -1,0 +1,6 @@
+Menciona una Red social
+Facebook,40
+Youtube,32
+Google Plus,16
+Twitter,8
+Linkedin,4
